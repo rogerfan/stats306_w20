@@ -7,6 +7,6 @@ Lab: Monday 4-5:30pm, EH B760
 OH: Monday 2-4pm, USB 2165 
 
 
-- Lab 1 (1/13): 
+- Lab 1 (1/13): [Introduction](https://github.com/rogerfan/stats306_w20/blob/master/labs/stats306_lab1.ipynb)
 - Lab 2 (1/20):
 - Lab 3 (1/27):
