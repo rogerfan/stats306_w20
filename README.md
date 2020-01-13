@@ -1,6 +1,11 @@
-## STATS 306, Winter 2020
+## STATS 306, Section 2, Winter 2020
 
-You can use the [editor on GitHub](https://github.com/rogerfan/stats306_w20/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+TA: Roger Fan, rogerfan@umich.edu
+Lab: Monday 4-5:30pm, EH B760
+OH: Monday 2-4pm, USB 2165 
+
+
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
