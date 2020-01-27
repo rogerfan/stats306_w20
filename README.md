@@ -13,4 +13,4 @@ OH: Monday 2-4pm, USB 2165
 - Lab 4 (2/3):
 - Lab 5 (2/10):
 
-Note: If clicking the download link doesn't automatically download the file, right click on the download link and choose "Save link as."
+Note: To download a notebook, right click on the download link and choose "Save link as."
