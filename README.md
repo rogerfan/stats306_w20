@@ -12,3 +12,5 @@ OH: Monday 2-4pm, USB 2165
 - Lab 3 (1/27): [ggplot](https://github.com/rogerfan/stats306_w20/blob/master/labs/stats306_lab3.ipynb) ([download](https://raw.githubusercontent.com/rogerfan/stats306_w20/master/labs/stats306_lab3.ipynb))
 - Lab 4 (2/3):
 - Lab 5 (2/10):
+
+Note: If clicking the download link doesn't automatically download the file, right click on the download link and choose "Save link as."
